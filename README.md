@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Everyone ! I'm Nuttaphoom Boonmee, but you can call me Arm. I grew up in Phichit, a small village in Thailand, where I developed a love for video games from a young age. I am currently on my third years studying Creative Technology at King Mongkut's University of Technology Thonburi (KMUTT). 
 
 <!--
 **Nuttaphoom/Nuttaphoom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
