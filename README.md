@@ -1,5 +1,5 @@
-### I'm currently working as a game programmer part time at Quantum Peak. 
-### I'm looking for an internship in Thailand as a game programmer or engine programmer. 
+### While I am primarily seeking freelance or part-time opportunities in Unity development, I am open to considering other job offers as well. Please feel free to email me with any potential opportunities. Although I am currently living in Thailand, if you are genuinely interested in collaborating, please don't hesitate to reach out. We may be able to find a way to work together despite the distance.
+
  
 <!--
 **Nuttaphoom/Nuttaphoom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
